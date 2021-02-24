@@ -44,6 +44,9 @@ a{
 #website{
    color: lightblue ;
 }
+#youtube{
+    color: red;
+}
 .btn{
     background: linear-gradient(to right,#00A3FF,#01D1FF);
     border: none;
